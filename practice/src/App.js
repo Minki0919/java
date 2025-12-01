@@ -1,8 +1,8 @@
-import Name3 from "./11/17/Project3";
+import BasicOfAPI7 from "./11/24/API-Example-8";
 function App(){
     return(
         <div className="App">
-            <Name3/>
+            <BasicOfAPI7/>
         </div>
     );
 }
